@@ -1,7 +1,7 @@
 import type { SiteConfig } from '$src/types/Config';
 
 const config: SiteConfig = {
-  title: 'DD',
+  title: 'David D',
   source: 'https://github.com/Kenny3231/my-website',
   baseUrl: 'https://as93.net',
   initialFeeds: [{ label: 'Notes', url: 'https://notes.aliciasykes.com/feed' }],
@@ -223,8 +223,8 @@ const config: SiteConfig = {
   ],
   contact: {
     name: 'DD',
-    email: 'alicia@omg.lol',
-    website: 'https://aliciasykes.com',
+    email: 'dd@gmail.com',
+    website: 'https://website.domo-lab31.fr',
     socials: {
       Twitter: 'Lissy_Sykes',
       GitHub: 'Lissy93',
