@@ -12,27 +12,8 @@ const config: SiteConfig = {
       url: 'https://www.linkedin.com/in/david-%F0%9F%94%B4%E2%9A%AB-dehos-2b51a088/',
     },
     //{label: 'BlogSpot',url: 'https://raw.githubusercontent.com/Lissy93/feeds/main/blogger.atom', },
-    {
-      label: 'GitHub',
-      url: 'https://raw.githubusercontent.com/Lissy93/feeds/main/github.atom',
-    },
-    {
-      label: 'StackOverflow',
-      url: 'https://raw.githubusercontent.com/Lissy93/feeds/main/stackoverflow.atom',
-    },
+   
     // { label: 'Twitter', url: 'https://raw.githubusercontent.com/Lissy93/feeds/main/twitter.atom' },
-    {
-      label: 'Reddit',
-      url: 'https://raw.githubusercontent.com/Lissy93/feeds/main/reddit.atom',
-    },
-    {
-      label: 'Mastodon',
-      url: 'https://raw.githubusercontent.com/Lissy93/feeds/main/mastodon.atom',
-    },
-    {
-      label: 'YouTube',
-      url: 'https://raw.githubusercontent.com/Lissy93/feeds/main/youtube.atom',
-    },
   ],
 
   routeLinks: [
@@ -130,23 +111,6 @@ const config: SiteConfig = {
       datesWorked: 'Jan 2021 - July 2022',
       responsibilities: 'Worked on real-time React-based Web3 trading application',
       technologies: [ 'React', 'StoryBook', 'Cypress', 'web3js',],
-    },
-    {
-      company: 'Freelance',
-      companyUrl: 'https://aliciasykes.com/',
-      companyLogo: 'https://i.ibb.co/Dt6kGFQ/brick.png',
-      jobTitle: 'Full-Stack Developer',
-      datesWorked: 'February 2019 - Jan 2021',
-      responsibilities: '',
-      projectType: 'Projects',
-      projects: [
-        { name: 'Futr.AI', logo: 'https://i.ibb.co/SyjxvhT/Futr-ai.png', description: '', },
-        { name: 'Shell', logo: 'https://i.ibb.co/7r1K9cb/Shell.png', description: '', },
-        { name: 'Shell Recharge', logo: 'https://i.ibb.co/BBdP2Wh/Shell-recharge.jpg', description: ''  },
-        { name: 'Machine Max', logo: 'https://i.ibb.co/XzXTKWF/machine-max.png', description: '', },
-        { name: 'Ctemplar', logo: 'https://i.ibb.co/2Sg6G3s/Ctemplar.png', description: '', },
-      ],
-      technologies: [ 'React', 'React Native', 'TypeScript', 'GraphQL', 'GCP' ],
     },
     {
       company: 'Accenture',
