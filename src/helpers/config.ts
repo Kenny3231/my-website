@@ -8,7 +8,7 @@ const config: SiteConfig = {
   additionalFeeds: [
     { label: 'Notes', url: 'https://notes.aliciasykes.com/feed' },
     {
-      label: 'Linkedin',
+      label: 'LinkedIn',
       url: 'https://www.linkedin.com/in/david-%F0%9F%94%B4%E2%9A%AB-dehos-2b51a088/',
     },
     //{label: 'BlogSpot',url: 'https://raw.githubusercontent.com/Lissy93/feeds/main/blogger.atom', },
