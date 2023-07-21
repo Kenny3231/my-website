@@ -8,13 +8,10 @@ const config: SiteConfig = {
   additionalFeeds: [
     { label: 'Notes', url: 'https://notes.aliciasykes.com/feed' },
     {
-      label: 'Dev.to',
-      url: 'https://raw.githubusercontent.com/Lissy93/feeds/main/dev-to.atom',
+      label: 'Linkedin',
+      url: 'https://www.linkedin.com/in/david-%F0%9F%94%B4%E2%9A%AB-dehos-2b51a088/',
     },
-    {
-      label: 'BlogSpot',
-      url: 'https://raw.githubusercontent.com/Lissy93/feeds/main/blogger.atom',
-    },
+    //{label: 'BlogSpot',url: 'https://raw.githubusercontent.com/Lissy93/feeds/main/blogger.atom', },
     {
       label: 'GitHub',
       url: 'https://raw.githubusercontent.com/Lissy93/feeds/main/github.atom',
@@ -44,37 +41,37 @@ const config: SiteConfig = {
       label: 'Blog',
       route: '/blog',
       color: 'var(--accent-2, #b45eff)',
-      description: 'Published articles, notes, tutorials and updates',
+      description: 'Articles publiés, notes, tutoriels et mises à jour',
     },
     {
       label: 'Projects',
       route: '/projects',
       color: 'var(--accent-3, #01c0f0)',
-      description: 'Personal projects and open source work',
+      description: 'Projet Personnel',
     },
     {
       label: 'Contact',
       route: '/contact',
       color: 'var(--accent-1, #ff0099)',
-      description: 'Social profile links, GPG keys and contact form',
+      description: 'Liens de profil social, formulaire de contact',
     },
     {
       label: 'About',
       route: '/about',
       color: 'var(--accent-4, #1de691)',
-      description: 'Bio and professional experience',
+      description: 'Expérience professionnelle',
     },
   ],
   footerInfo: {
-    author: 'Alicia Sykes',
-    authorSite: 'https://github.com/lissy93',
+    author: 'DD',
+    authorSite: 'https://github.com/Kenny3231',
     license: 'MIT',
     licenseLink: '',
     copyright: true,
   },
-  githubUser: 'lissy93',
+  githubUser: 'Kenny3231',
   defaultTheme: 'dark',
-  defaultLanguage: 'en',
+  defaultLanguage: 'fr',
   colorSchemes: {
     dark: {
       background: '#101010',
