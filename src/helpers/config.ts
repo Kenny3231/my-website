@@ -1,8 +1,8 @@
 import type { SiteConfig } from '$src/types/Config';
 
 const config: SiteConfig = {
-  title: 'Alicia Sykes',
-  source: 'https://github.com/lissy93/my-website',
+  title: 'DD',
+  source: 'https://github.com/Kenny3231/my-website',
   baseUrl: 'https://as93.net',
   initialFeeds: [{ label: 'Notes', url: 'https://notes.aliciasykes.com/feed' }],
   additionalFeeds: [
